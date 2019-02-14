@@ -1,0 +1,25 @@
+{
+  "name": "school",
+  "version": "0.0.1",
+  "description": "Basic school website built with Node and Express.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inyoka/school.git"
+  },
+  "keywords": [
+    "school",
+    "website",
+    "node",
+    "javascript"
+  ],
+  "author": "Mr S M Holland BA Hons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inyoka/school/issues"
+  },
+  "homepage": "https://github.com/inyoka/school#readme"
+}
